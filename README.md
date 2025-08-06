@@ -1,12 +1,15 @@
 # JS
 
-## JS
+## JS Выполнить!
+- Лекция от rsschool по javascript https://www.youtube.com/watch?v=PH37Zvp3vDY&list=PLzLiprpVuH8df24MzZp-l5QMsJWJbi9qP
+- интеративный курс https://code-basics.com/ru/languages/javascript
+- 
 ### Тренажеры
 1. https://learn.javascript.ru/string
 2. https://www.codewars.com/dashboard
 3. https://code-basics.com/ru/languages/javascript/lessons/variables-expressions
 
-## Материалы:
+## :
 - [Работа с Git](git.md).
 - [Шпаргалка по синтаксису Markdown](https://ydmitry.ru/blog/rukovodstvo-po-markdown-dlya-uproshcheniya-veb-razrabotki/).
 
